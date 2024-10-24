@@ -1,6 +1,7 @@
 #!/bin/sh
 a=10 
 
+##adding some comments
 
 if [ $a == 10 ]
 then 
